@@ -1,0 +1,11 @@
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.exe.config
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.exe
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.pdb
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.xml
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.vbprojAssemblyReference.cache
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.Resources.resources
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.vbproj.GenerateResource.cache
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.exe
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.xml
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.pdb
+C:\Users\Daniel Diaz\source\repos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.frmMain.resources
